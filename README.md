@@ -1,4 +1,4 @@
-# FindConcerts
+# FindConcerts UI
 
 _Proyecto Grupal de Diplomatura en Desarrollo Web Full Stack en UADE. Se trata de un buscador de recitales en tiempo real a modo de Agenda. Pudiendo acceder a informacion precisa basada en gustos, ubicacion e intereses. Pudiendo filtrar por bandas y/o shows brindando seguridad al usuario a la hora de comprar entradas._
 
